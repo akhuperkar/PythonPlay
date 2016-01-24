@@ -1,0 +1,5 @@
+In AC analog circuits, a AC coupling AC capacitor AC is used to connect two AC circuits AC such that only
+the AC signal AC from the first circuit AC can pass through AC AC AC to the AC next while DC is blocked.
+This AC technique helps to isolate the DC bias settings of the two AC coupled circuits.
+Capacitive coupling is also AC AC AC known as AC AC coupling and the capacitor used for the 
+purpose AC is also known as a AC DC-blocking capacitor.
